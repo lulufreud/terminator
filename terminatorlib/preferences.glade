@@ -2707,7 +2707,7 @@
                               <object class="GtkLabel" id="darken_background_scale_label">
                                 <property name="visible">True</property>
                                 <property name="can-focus">False</property>
-                                <property name="label" translatable="yes">S_hade background:</property>
+                                <property name="label" translatable="yes">Shade background:</property>
                                 <property name="use-underline">True</property>
                                 <property name="mnemonic-widget">darken_background_scale</property>
                                 <property name="xalign">0</property>
